@@ -1,0 +1,30 @@
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Model files
+model/
+*.h5
+*.pkl
+*.pt
+*.bin
+*.ckpt
+
+# IDE 
+.vscode/
+.idea/
+*.idea/
+*.pyc
+
+# Model files
+model/
+*.h5
+*.pkl
+*.pt
+*.bin
+*.ckpt
+
+csv/*
+*.csv
